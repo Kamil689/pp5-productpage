@@ -33,12 +33,14 @@ body
 }
 
 #dane_kontaktowe,
-#formularz
+#formularz,
+#jak_zamowic
 {
 	width:50%;
 }
 
-#dane_kontaktowe
+#dane_kontaktowe,
+#jak_zamowic
 {
 	float:right;
 }
