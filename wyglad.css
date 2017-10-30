@@ -31,3 +31,19 @@ body
 {
 	width:58%;
 }
+
+#dane_kontaktowe,
+#formularz
+{
+	width:50%;
+}
+
+#dane_kontaktowe
+{
+	float:right;
+}
+
+#formularz
+{
+	float:left;
+}
