@@ -81,6 +81,13 @@ body
 	height:75%;
 }
 
+#cialo iframe
+{
+	border:none;
+	height:100%;
+	width:100%;
+}
+
 #dane_kontaktowe,
 #formularz,
 #jak_zamowic
