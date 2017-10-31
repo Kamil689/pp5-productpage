@@ -46,6 +46,11 @@ body
 	text-align: center;
 }
 
+#gora img
+{
+	height:100%;
+}
+
 #odnosniki
 {
 	background: #333333;
