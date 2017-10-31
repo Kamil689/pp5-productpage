@@ -32,6 +32,67 @@ body
 	width:58%;
 }
 
+#gora
+{
+	display:table;
+	height:15%;
+	width:100%;
+}
+
+#gora h1
+{
+	display: table-cell;
+    vertical-align: middle;
+	text-align: center;
+}
+
+#gora img
+{
+	height:100%;
+}
+
+#odnosniki
+{
+	background: #333333;
+	height:10%;
+	padding-left:20%;
+	padding-right:20%;
+}
+
+#odnosniki div
+{
+	display:table;
+	width:33%;
+	height:100%;
+	float:left;
+}
+
+#odnosniki div a
+{
+	display: table-cell;
+	color: white;
+	vertical-align: middle;
+	text-align: center;
+	text-decoration: none;
+}
+
+#odnosniki div a:hover:not(.active)
+{
+	background: #4CAF50;
+}
+
+#cialo
+{
+	height:75%;
+}
+
+#cialo iframe
+{
+	border:none;
+	height:100%;
+	width:100%;
+}
+
 #dane_kontaktowe,
 #formularz,
 #jak_zamowic
