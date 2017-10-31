@@ -34,7 +34,16 @@ body
 
 #gora
 {
+	display:table;
 	height:15%;
+	width:100%;
+}
+
+#gora h1
+{
+	display: table-cell;
+    vertical-align: middle;
+	text-align: center;
 }
 
 #odnosniki
