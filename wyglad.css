@@ -6,6 +6,8 @@ html
 body
 {
 	height:100%;
+	margin:0;
+	padding:0;
 	background:#002A54;
 	color:#EAEDF1;
 }
@@ -97,14 +99,16 @@ body
 
 #cialo
 {
-	height:75%;
+	height:74%;
 }
 
 #cialo iframe
 {
+	padding-left:1%;
+	padding-right:1%;
 	border:none;
 	height:100%;
-	width:100%;
+	width:98%;
 }
 
 #dane_kontaktowe,
