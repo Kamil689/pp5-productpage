@@ -1,7 +1,7 @@
 body
 {
-	background:black;
-	color:white;
+	background:#002A54;
+	color:#EAEDF1;
 }
 .fig 
 {
@@ -61,7 +61,7 @@ body
 
 #odnosniki
 {
-	background: #333333;
+	background:#14293D;
 	height:10%;
 	padding-left:20%;
 	padding-right:20%;
@@ -86,7 +86,7 @@ body
 
 #odnosniki div a:hover:not(.active)
 {
-	background: #4CAF50;
+	background:#E04B27;
 }
 
 #cialo
