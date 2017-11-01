@@ -50,6 +50,9 @@ body
 
 #gora
 {
+	background-image:url("acme.png");
+	background-size:contain;
+    background-repeat: no-repeat;
 	display:table;
 	height:15%;
 	width:100%;
@@ -60,11 +63,6 @@ body
 	display:table-cell;
     vertical-align:middle;
 	text-align: center;
-}
-
-#gora img
-{
-	height:100%;
 }
 
 #odnosniki
